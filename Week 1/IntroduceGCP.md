@@ -3,4 +3,4 @@
 ### 1
 4 kind of services: Compute, Storage, Big data and Machine Learning 
 ### 2 
-Defination of Cloud:
+Defination of Cloud: 
